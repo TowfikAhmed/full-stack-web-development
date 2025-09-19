@@ -1,4 +1,4 @@
-# Full-stack web development
+# Full-stack web application development
 
 # 📚 Frontend Development (Step 1 of 3)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Module 1 – Web Foundations
+## 📖 Module 1 – Web Foundations -- (Self-learnable + Guided)
 
 ###  1: HTML Essentials
 - **Topics**
@@ -39,7 +39,20 @@
 
 ## 📖 Module 2 – Modern Frontend Concepts
 
-###  4: From Static to Dynamic
+### 🔧 Node.js Setup (Tooling for Frontend)
+- **Topics**
+  - Install Node.js (LTS) → [nodejs.org](https://nodejs.org)
+  - Verify with `node -v` and `npm -v`
+  - Update/remove with `nvm` or package manager
+  - Understand `package.json` and `node_modules`
+  - Use `npm` and `npx` to run scripts
+  - Folder structure basics:
+    - `package.json` → dependencies, scripts
+    - `node_modules/` → installed packages
+    - `public/` → static assets
+    - `src/` → project code (React/Nuxt)
+
+###  4: Web application
 - **Topics**
   - What are components?
   - SPA vs MPA
